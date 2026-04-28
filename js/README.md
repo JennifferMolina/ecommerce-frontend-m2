@@ -1,37 +1,33 @@
-# TecnoStore - Tienda Online
+# TecnoStore
 
-Este proyecto corresponde al desarrollo de un MVP de una tienda en línea como parte del módulo de Frontend.
+Proyecto de ecommerce desarrollado para el portafolio del curso.
 
-El objetivo del proyecto es aplicar conceptos básicos de desarrollo web utilizando HTML5 semántico, Bootstrap para el diseño responsivo y JavaScript para agregar interactividad al sitio.
+## Módulo 2
 
-El sistema permite visualizar productos, revisar el detalle de cada uno y simular la adición de productos a un carrito de compras mediante un contador dinámico.
+Tienda web creada con:
 
+* HTML
+* Bootstrap
+* JavaScript
 
-## Funcionalidades
+Incluye:
 
-Página de inicio con productos mostrados en cards de Bootstrap
-Página de detalle de producto
-Carrito de compras simulado
-Contador dinámico de productos en el carrito
-Navegación entre páginas (Inicio, Detalle y Carrito)
-Diseño responsivo para dispositivos móviles y escritorio
+* Página de inicio con productos
+* Página de detalle de producto
+* Carrito de compras simulado
 
+## Módulo 3
 
-## Tecnologías utilizadas
+Aplicación de consola en Python que simula un ecommerce.
 
-HTML5 semántico
-Bootstrap 5
-JavaScript
-Git
-GitHub
+Funciones:
 
-## Repositorio GitHub
+* Ver catálogo de productos
+* Buscar productos
+* Agregar productos al carrito
+* Ver carrito y total
+* Vaciar carrito
 
-Enlace al repositorio público del proyecto:
+Para ejecutar el programa:
 
-https://github.com/JennifferMolina/ecommerce-frontend-m2
-
-
-## Autor
-
-Proyecto desarrollado por Jenniffer Molina para  **Desarrollo de Aplicaciones Full Stack - Frontend**.
+python ecommerce_m3.py
