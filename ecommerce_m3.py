@@ -4,8 +4,8 @@ catalogo = [
     {"id": 1, "nombre": "Mouse Inalámbrico", "categoria": "tecnología", "precio": 19990},
     {"id": 2, "nombre": "Audífonos Gamer", "categoria": "tecnología", "precio": 29990},
     {"id": 3, "nombre": "Teclado Mecánico", "categoria": "tecnología", "precio": 39990},
-    {"id": 4, "nombre": "Polera Deportiva", "categoria": "ropa", "precio": 12990},
-    {"id": 5, "nombre": "Lámpara de Escritorio", "categoria": "hogar", "precio": 15990}
+    {"id": 4, "nombre": "Notebook Lenovo", "categoria": "tecnología", "precio": 499990},
+    {"id": 5, "nombre": "Monitor Full HD", "categoria": "tecnología", "precio": 129990}
 ]
 
 carrito = []
